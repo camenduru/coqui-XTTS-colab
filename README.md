@@ -16,7 +16,7 @@ https://huggingface.co/spaces/coqui/xtts/tree/main <br />
 https://huggingface.co/coqui/XTTS-v1
 
 ## License
-This license allows only non-commercial use of a machine learning model and its outputs.
+This license allows only non-commercial use of a machine learning model and its outputs. <br />
 https://coqui.ai/cpml
 
 ## Output
