@@ -10,6 +10,7 @@
 
 ## Main Repo
 https://github.com/coqui-ai/TTS
+https://huggingface.co/spaces/coqui/xtts/tree/main
 
 ## Model
 https://huggingface.co/coqui/XTTS-v1
