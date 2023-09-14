@@ -9,8 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/coqui-XTTS-colab/blob/main/coqui_XTTS_colab.ipynb) | coqui_XTTS_colab
 
 ## Main Repo
-https://github.com/coqui-ai/TTS
-https://huggingface.co/spaces/coqui/xtts/tree/main
+https://github.com/coqui-ai/TTS <br />
+https://huggingface.co/spaces/coqui/xtts/tree/main <br />
 
 ## Model
 https://huggingface.co/coqui/XTTS-v1
