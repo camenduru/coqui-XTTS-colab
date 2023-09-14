@@ -14,6 +14,10 @@ https://github.com/coqui-ai/TTS
 ## Model
 https://huggingface.co/coqui/XTTS-v1
 
+## License
+This license allows only non-commercial use of a machine learning model and its outputs.
+https://coqui.ai/cpml
+
 ## Output
 
 
