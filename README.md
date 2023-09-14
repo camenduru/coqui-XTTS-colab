@@ -20,5 +20,6 @@ This license allows only non-commercial use of a machine learning model and its 
 https://coqui.ai/cpml
 
 ## Output
+https://github.com/camenduru/coqui-XTTS-colab/assets/54370274/8286abca-a84f-4b88-8a73-42615e03150f
 
 
